@@ -87,6 +87,13 @@ nav a {
     font-family: Arial;
 }
 
+.video_logo img {
+    width: 18%;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
 .logo img {
     width: 18%;
     vertical-align: middle;
@@ -383,6 +390,13 @@ section h1 {
 
     .logo img {
         width: 60%;
+        vertical-align: middle;
+        cursor: pointer;
+    }
+
+    .video_logo img {
+        margin-left: -15vw;
+        width: 8%;
         vertical-align: middle;
         cursor: pointer;
     }
